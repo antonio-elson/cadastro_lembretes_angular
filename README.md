@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
 
+Este é um sistema de lembretes utilizando uma api restful. 
+- Neste sistema conseguimos cadastrar, editar, visualizar e excluir lembretes.
+- Sistema construido com Angular 8, Bootstrap 4, usando uma api externa no back-end para persistir os lembretes.
+
+This is a reminder system using a restful api.
+- In this system we can register, edit, view and delete reminders.
+- System built with Angular 8, Bootstrap 4, using an external backend api to persist the reminders.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
